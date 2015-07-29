@@ -22,7 +22,6 @@ class ViewController: UIViewController {
     func doSomething() {
         
         println("hello")
-        println("paul")
     }
 
     override func didReceiveMemoryWarning() {
